@@ -5,4 +5,7 @@ public class Stock {
     double stockPrice;
     int availableStock;
 
+
+
+
 }
